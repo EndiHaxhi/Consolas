@@ -1,0 +1,4 @@
+Endi        Haxhi       100.00 A
+Alesia      Haxhi       100.00 A
+Paul        Pogba       44.00 F
+Class average is: 81.33
